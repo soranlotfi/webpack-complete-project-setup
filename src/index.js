@@ -1,3 +1,4 @@
+import "./styles/main.scss"
 const elvenShileRecipe = {
     leatherStrips:2,
     ironInogt:1,
